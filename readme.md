@@ -3,6 +3,7 @@
 - [Spreadsheets](#spreadsheets)
 - [Drawing](#drawing)
 - [Json](#json)
+- [Web3](#web3)
 
 ## Spreadsheets
 
@@ -26,3 +27,9 @@
 
 - **[jq](https://stedolan.github.io/jq/)**: Command-line json parser. 
 - **[jless](https://pauljuliusmartinez.github.io/)**: Interactive command-line json explorer.
+
+## Web3
+
+- **[BlockChain demo](https://andersbrownworth.com/blockchain)**
+- **[Eth Gas Station](https://ethgasstation.info/)**: Ethereum gas prices
+- **[Etherscan: gas tracker](https://etherscan.io/gastracker)**: Ethereum gas prices
